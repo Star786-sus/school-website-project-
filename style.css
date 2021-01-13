@@ -1,0 +1,32 @@
+.q{
+ background-color: #99bbf2;
+ text-align: right;
+}
+iframe{
+height: 400px;
+}
+#maps{
+height: 400px;
+width: 400px;
+}
+#iffatp{
+width: 300px;
+height: 300px;
+}
+#sanchitap{
+width: 300px;
+height: 300px;
+}
+body{
+text-align: center;
+}
+#campuslife{
+margin-top: 10px;
+}
+#schoolpicr{
+ width: 300px;
+ height: 300px;
+}
+#campuslife{
+text-align: center;
+}
